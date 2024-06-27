@@ -19,4 +19,12 @@ describe("Test 删除排序数组中的重复项", () => {
             expect(nums[i]).toBe(expectedNums[i])
         }
     });
+    test('Test Case 3', () => {
+        const nums = [0];
+        const expectedNums = [0];
+        const k = removeDuplicates(nums);
+        for (let i = 0; i < k; i++) {
+            expect([nums[i]]).toBe(expectedNums[i]);
+        }
+    })
 });

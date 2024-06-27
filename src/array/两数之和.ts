@@ -18,4 +18,5 @@ export function twoSum(nums: number[], target: number): number[] {
         }
         obj[num] = i;
     }
+    return [];
 }

@@ -1,4 +1,6 @@
 # 初级算法
+[![Test](https://github.com/Samoy/easy-algorithm/actions/workflows/test.yml/badge.svg)](https://github.com/Samoy/easy-algorithm/actions/workflows/test.yml)
+[![LeetCode](https://img.shields.io/badge/leetcode-easy-light?logo=leetcode)](https://leetcode.cn/studyplan/30-days-of-javascript/)
 
 ## 数组
 
