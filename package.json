@@ -1,0 +1,23 @@
+{
+  "name": "easy-algorithm",
+  "version": "1.0.0",
+  "description": "LeetCode Book初级算法",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "LeetCode",
+    "algorithm"
+  ],
+  "author": "Samoy",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^1.6.0",
+    "vitest": "^1.6.0"
+  }
+}
