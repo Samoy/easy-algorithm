@@ -1,4 +1,5 @@
 # 初级算法
+
 [![Test](https://github.com/Samoy/easy-algorithm/actions/workflows/test.yml/badge.svg)](https://github.com/Samoy/easy-algorithm/actions/workflows/test.yml)
 [![LeetCode](https://img.shields.io/badge/leetcode-easy-light?logo=leetcode)](https://leetcode.cn/studyplan/30-days-of-javascript/)
 
@@ -24,6 +25,15 @@
 4. [有效的字母异位词](src/string/有效的字母异位词.ts)
 5. [验证回文串](src/string/验证回文串.ts)
 6. [字符串转整数](src/string/字符串转整数.ts)
-7. [实现strStr()](src/string/实现strStr().ts)
+7. [实现 strStr()](<src/string/实现strStr().ts>)
 8. [外观数列](src/string/外观数列.ts)
 9. [最长公共前缀](src/string/最长公共前缀.ts)
+
+## 链表
+
+1. [删除链表中的节点](src/linkedlist/删除链表中的节点.ts)
+2. [删除链表的倒数第 N 个节点](src/linkedlist/删除链表的倒数第N个节点.ts)
+3. [反转链表](src/linkedlist/反转链表.ts)
+4. [合并两个有序链表](src/linkedlist/合并两个有序链表.ts)
+5. [回文链表](src/linkedlist/回文链表.ts)
+6. [环形链表](src/linkedlist/环形链表.ts)
